@@ -12,7 +12,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 $(call inherit-product, vendor/cm/config/telephony.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := lineage_ha3g
+PRODUCT_NAME := ridon_ha3g
 PRODUCT_DEVICE := ha3g
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
